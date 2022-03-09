@@ -6,16 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Return Raihan
+title: Return Rakib
 
 # Your name to show in the footer
-author: Raihan Khan
+author: Rakibul Islam
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
 
-  Home: "https://raihankhan.github.io/"
+  Home: "https://Rakibul-CoU.github.io/"
   
   Check Out My Inventory:
     - Data Structure: "Data Structure"
@@ -50,15 +50,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "raihankhanraka@gmail.com"
-  facebook: raihankhanraka
-  github: raihankhan
+  email: "mmdrakibul2912@gmail.com"
+  facebook: rakibul.cou
+  github: Rakibul-CoU
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: raihan-khan-raka
+  linkedin: md-rakibul-islam-26676b15b
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
