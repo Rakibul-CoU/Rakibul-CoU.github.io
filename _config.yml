@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Return Rakib
+title: Home
 
 # Your name to show in the footer
-author: Rakibul Islam
+author: MD. Rakibul Islam
 
 # --- List of links in the navigation bar --- #
 
@@ -18,11 +18,13 @@ navbar-links:
   Home: "https://Rakibul-CoU.github.io/"
   
   Check Out My Inventory:
-    - Data Structure: "Data Structure"
-    - Dynamic Programming: "Dynamic_Programming"
-    - Number Theory: "Number Theory"
+    - Coding: "Coding"
 
   About Me: "aboutme"
+  Education: "Education"
+  Skills: "Skills"
+  Publications: "Publications"
+  Blogs: "Blogs"
   
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -33,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/ava-icon2.JPG"
+avatar: "/assets/img/cv.JPG"
 share-img: "/assets/img/social media preview.png"
 
 
